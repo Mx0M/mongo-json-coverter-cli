@@ -10,4 +10,4 @@
   - `NumberInt(...)`, `NumberLong(...)` → JSON numbers
 - Handles nested structures and arrays
 - Fast and lightweight (compiled Go binary)
-  command - ./mjconvcli --source ex.json --output output.json
+- command - ./mjconvcli --source ex.json --output output.json
